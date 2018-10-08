@@ -4,4 +4,5 @@ class Gvkr
 	{
 		System.out.println("GVKR+PVV");
 	}
-}
+
+}#EOF
